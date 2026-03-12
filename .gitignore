@@ -1,0 +1,7 @@
+.Rproj.user/
+.Rhistory
+.RData
+renv/library/
+data/
+outputs/*.png
+outputs/*.mp4
