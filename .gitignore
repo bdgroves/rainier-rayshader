@@ -5,3 +5,5 @@ renv/library/
 data/
 outputs/*.png
 outputs/*.mp4
+outputs/*.gif
+outputs/frames/
